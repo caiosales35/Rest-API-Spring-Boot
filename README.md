@@ -72,12 +72,12 @@ Rest API desenvolvida utilizando Java Spring Boot, durante a disciplina de desen
 > GET "/api/v1/imovel/imobiliaria/id"
 > id: id da imobiliaria
 
-## Instruções para rodar o projeto
+## Instruções para rodar o projeto:
 - Certifique-se de possuir todas as tecnologias envolvendo o projeto devidamente instaladas e configuradas (incluindo o banco de dados configurado com as credenciais  de acesso corretas, de acordo como indicado no arquivo **application.properties**).
 - Rodar o script de banco de dados localizado na pasta **DBScripts**.
 - Para iniciar o projeto pela linha de comando, a partir da pasta raiz, rode: **mvn spring-boot:run**; ou o comando equivalente, a depender do sistema operacional.
 - Obs: o arquivo **Endpoints.json** contém exemplos de utilização de todos os endpoints do projeto; podendo, este arquivo, ser importado em softwares como Insomnia ou Postman.
 
 ## Autores:
-Caio Cesar de Morais Sales
-Ellen Cristina Herculano
+- Caio Cesar de Morais Sales
+- Ellen Cristina Herculano
